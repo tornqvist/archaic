@@ -1,4 +1,4 @@
-# walla
+# archaic
 
 **Bundle less web apps with SSR without any tooling**
 
